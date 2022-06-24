@@ -1,2 +1,2 @@
 #!/bin/bash
---reference=olleh option
+chmood --reference=olleh hello
